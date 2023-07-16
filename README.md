@@ -17,11 +17,11 @@ The script uses a combination of uppercase letters, lowercase letters, digits, a
 
 2. In the command console or terminal, navigate to the location of your Python file using "cd".
 
-   **Example:
+   *Example:*
    
-   cd C:\Users\ibbiibbi\source\repos\RandomPassGenPython 
+   **cd C:\Users\ibbiibbi\source\repos\RandomPassGenPython** 
    
-   (the directory location of your .py file will obviously be different)** 
+   *(the directory location of your .py file will obviously be different)*
   
 3. Run the script using the following command:
 python password_generator.py
