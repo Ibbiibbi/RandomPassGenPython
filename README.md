@@ -20,3 +20,7 @@ python password_generator.py
 3. Enter the desired length of the password when prompted.
 
 4. The script will generate a random password and display it on the console.
+
+## Dependencies
+
+The script does not have any external dependencies beyond the standard Python library.
