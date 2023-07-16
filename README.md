@@ -14,12 +14,17 @@ The script uses a combination of uppercase letters, lowercase letters, digits, a
 
 1. Make sure you have Python 3 installed on your machine.
 
-2. Run the script using the following command:
+2. In the command console or terminal, navigate to the location of your Python file using "cd".
+
+Example:
+   cd C:\Users\ibbiibbi\source\repos\RandomPassGenPython (the directory location of your .py file, your location will obviously be different) 
+  
+3. Run the script using the following command:
 python password_generator.py
 
-3. Enter the desired length of the password when prompted.
+4. Enter the desired length of the password when prompted.
 
-4. The script will generate a random password and display it on the console.
+5. The script will generate a random password and display it on the console.
 
 ## Dependencies
 
